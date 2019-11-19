@@ -6,10 +6,10 @@ class Breadcrumbs extends Component {
     return (
       <div className="animated fadeIn">
         <Row>
-          <Col xs="12">
+          <Col xs="12" >
             <Card>
               <CardHeader>
-                <i className="fa fa-align-justify"></i><strong>Breadcrumbs</strong>
+                <i className="fa fa-align-justify"></i><strong>Breadcrumbs update</strong>
                 <div className="card-header-actions">
                   <a href="https://reactstrap.github.io/components/breadcrumbs/" rel="noreferrer noopener" target="_blank" className="card-header-action">
                     <small className="text-muted">docs</small>
